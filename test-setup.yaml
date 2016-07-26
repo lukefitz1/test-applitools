@@ -1,0 +1,6 @@
+name: Test suite
+ 
+tests:
+  - name: Test name
+    classes:
+      - tests.HelloWorld
